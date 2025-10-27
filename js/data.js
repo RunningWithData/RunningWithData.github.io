@@ -468,7 +468,7 @@ var lit = [
         'Purpose': "Multipurpose",
         'Year': "'04-'09",
         'Device': "MobilePhone",
-        'Data': "Performance, Physiological",
+        'Data': "Performance",
         'Data Abstraction': "Abstract, Mixed",
         'Visual Encoding': "2D, Textual",
         'Embeddedness': "Co-located",
