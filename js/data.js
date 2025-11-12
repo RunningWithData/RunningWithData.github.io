@@ -12,7 +12,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Investigating the use of Spatialized Audio Augmented Reality to enhance the outdoor running experience - ScienceDirect",
         'Unnamed: 11': "Siriaraya23",
-        'reference number': '65',
+        'reference number': '68',
         'image': 'images/Siriaraya23.png'
     },
     {
@@ -44,7 +44,7 @@ var lit = [
         'Evaluation': "No Evaluation",
         'Title': "Frontiers | The Design and Development of a Personalized Leisure Time Physical Activity Application Based on Behavior Change Theories, End-User Perceptions, and Principles From Empirical Data Mining (frontiersin.org)",
         'Unnamed: 11': "Sporrel21",
-        'reference number': '67',
+        'reference number': '70',
         'image': 'images/Sporrel21.png'
     },
     {
@@ -60,7 +60,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "SF-LG: Space-Filling Line Graphs for Visualizing Interrelated Time-series Data on Smartwatches | Proceedings of the 23rd International Conference on Mobile Human-Computer Interaction (acm.org)",
         'Unnamed: 11': "Neshati21",
-        'reference number': '51',
+        'reference number': '53',
         'image': 'images/Neshati21.png'
     },
     {
@@ -92,7 +92,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "A Study on Real-Time Visualizations During Sports Activities on Smartwatches (acm.org)",
         'Unnamed: 11': "Schiewe20",
-        'reference number': '61',
+        'reference number': '64',
         'image': 'images/Schiewe20.png'
     },
     {
@@ -108,7 +108,7 @@ var lit = [
         'Evaluation': "No Evaluation",
         'Title': "Stay fit during COVID-19, a study using interactive jogging application (JOGA)",
         'Unnamed: 11': "Noordin20",
-        'reference number': '53',
+        'reference number': '56',
         'image': 'images/Noordin20.png'
     },
     {
@@ -124,7 +124,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Using real‐time biofeedback to alter running biomechanics: A randomized controlled trial - Morris - 2020 - TRANSLATIONAL SPORTS MEDICINE - Wiley Online Library",
         'Unnamed: 11': "Morris20",
-        'reference number': '45',
+        'reference number': '47',
         'image': 'images/Morris20.png'
     },
     {
@@ -140,7 +140,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "Virtual Performance Augmentation in an Immersive Jump & Run Exergame | Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (acm.org)",
         'Unnamed: 11': "Ioannou19",
-        'reference number': '30',
+        'reference number': '31',
         'image': 'images/Ioannou19.png'
     },
     {
@@ -156,7 +156,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "G-Sparks: Glanceable Sparklines on Smartwatches • Graphics Interface",
         'Unnamed: 11': "Neshati19",
-        'reference number': '52',
+        'reference number': '55',
         'image': 'images/Neshati19.png'
     },
     {
@@ -172,7 +172,7 @@ var lit = [
         'Evaluation': "No Evaluation",
         'Title': "An Analysis of Case Representations for Marathon Race Prediction and Planning | SpringerLink",
         'Unnamed: 11': "Smyth18",
-        'reference number': '66',
+        'reference number': '69',
         'image': 'images/Smyth18.png'
     },
     {
@@ -204,7 +204,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "RunMerge: Towards Enhanced Proprioception for Advanced Amateur Runners (acm.org)",
         'Unnamed: 11': "Kiss17",
-        'reference number': '36',
+        'reference number': '37',
         'image': 'images/Kiss17.png'
     },
     {
@@ -220,7 +220,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "From Problem to Solution: Developing a Personalized Smartphone Application for Recreational Runners following a Three-step Design Approach",
         'Unnamed: 11': "Vos17",
-        'reference number': '75',
+        'reference number': '78',
         'image': 'images/Vos17.png'
     },
     {
@@ -236,7 +236,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Live-feedback from the IMUs | Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct",
         'Unnamed: 11': "Seuter16",
-        'reference number': '62',
+        'reference number': '65',
         'image': 'images/Seuter16.png'
     },
     {
@@ -252,7 +252,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "VRun: Running-in-place virtual reality exergame",
         'Unnamed: 11': "Yoo16",
-        'reference number': '79',
+        'reference number': '82',
         'image': 'images/Yoo16.png'
     },
     {
@@ -268,7 +268,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Exploring the design space of glanceable feedback for physical activity trackers | Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
         'Unnamed: 11': "Gouveia16",
-        'reference number': '24',
+        'reference number': '25',
         'image': 'images/Gouveia16.png'
     },
     {
@@ -284,7 +284,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "RunBuddy | Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
         'Unnamed: 11': "Hao15",
-        'reference number': '26',
+        'reference number': '27',
         'image': 'images/Hao15.png'
     },
     {
@@ -300,7 +300,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Novel human computer interaction principles for cardiac feedback using google glass and Android wear | IEEE Conference Publication | IEEE Xplore",
         'Unnamed: 11': "Richer15",
-        'reference number': '59',
+        'reference number': '62',
         'image': 'images/Richer15.png'
     },
     {
@@ -316,7 +316,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "RunRight - Real-time visual and audio feedback on running",
         'Unnamed: 11': "Nylander14",
-        'reference number': '54',
+        'reference number': '57',
         'image': 'images/Nylander14.png'
     },
     {
@@ -332,7 +332,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Virtual Marathon System Where Humans and Agents Compete | Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics (WIMS14) (acm.org)",
         'Unnamed: 11': "Kishino14",
-        'reference number': '35',
+        'reference number': '36',
         'image': 'images/Kishino14.png'
     },
     {
@@ -364,7 +364,7 @@ var lit = [
         'Evaluation': "No Evaluation",
         'Title': "Investigating and supporting undirected navigation for runners | CHI '13 Extended Abstracts on Human Factors in Computing Systems (acm.org)",
         'Unnamed: 11': "McGookin13",
-        'reference number': '44',
+        'reference number': '46',
         'image': 'images/McGookin13.png'
     },
     {
@@ -380,7 +380,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "Multimodal and mobile conversational Health and Fitness Companions | Computer Speech and Language (acm.org)",
         'Unnamed: 11': "Turunen11",
-        'reference number': '73',
+        'reference number': '76',
         'image': 'images/Turunen11.png'
     },
     {
@@ -396,7 +396,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "Everywhere run | Proceedings of the 8th International Conference on Advances in Computer Entertainment Technology (acm.org)",
         'Unnamed: 11': "Mulas11",
-        'reference number': '50',
+        'reference number': '52',
         'image': 'images/Mulas11.png'
     },
     {
@@ -412,7 +412,7 @@ var lit = [
         'Evaluation': "No Evaluation",
         'Title': "A mobile music concept as support for achieving target heart rate in preventive and recreational endurance training | Proceedings of the 5th Audio Mostly Conference: A Conference on Interaction with Sound (acm.org)",
         'Unnamed: 11': "Rubisch10",
-        'reference number': '60',
+        'reference number': '63',
         'image': 'images/Rubisch10.png'
     },
     {
@@ -508,7 +508,7 @@ var lit = [
         'Evaluation': "In Lab",
         'Title': "MPTrain | Proceedings of the 8th conference on Human-computer interaction with mobile devices and services (acm.org)",
         'Unnamed: 11': "Oliver06",
-        'reference number': '55',
+        'reference number': '58',
         'image': 'images/Oliver06.png'
     },
     {
@@ -556,7 +556,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Jogging support system with portable monitoring device and health manage software - PubMed (nih.gov)",
         'Unnamed: 11': "Makikawa04",
-        'reference number': '40',
+        'reference number': '42',
         'image': 'images/Makikawa04.png'
     },
     {
@@ -572,7 +572,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "M-AGEW: Empowering Outdoor Workouts with Data-Driven Augmented Reality Assistance | IEEE Conference Publication | IEEE Xplore",
         'Unnamed: 11': "Stacchio24",
-        'reference number': '68',
+        'reference number': '71',
         'image': 'images/Stacchio24.png'
     },
     {
@@ -588,7 +588,7 @@ var lit = [
         'Evaluation': "No Evaluation",
         'Title': "Investigating the Use of Augmented Reality to Enhance the Indoor Running Experience on a Treadmill",
         'Unnamed: 11': "Simon23",
-        'reference number': '64',
+        'reference number': '67',
         'image': 'images/Simon23.png'
     },
     {
@@ -604,7 +604,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Solitary Jogging with A Virtual Runner using Smartglasses | IEEE Conference Publication | IEEE Xplore",
         'Unnamed: 11': "Hamada22",
-        'reference number': '25',
+        'reference number': '26',
         'image': 'images/Hamada22.png'
     },
     {
@@ -652,7 +652,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Around me: A system with an escort robot providing a sports player’s self-images.",
         'Unnamed: 11': "Tominaga14",
-        'reference number': '71',
+        'reference number': '74',
         'image': 'images/Tominaga14.png'
     },
     {
@@ -684,7 +684,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "VisTellAR: Embedding Data Visualization to Short-form Videos Using Mobile Augmented Reality.",
         'Unnamed: 11': "Tong24",
-        'reference number': '72',
+        'reference number': '75',
         'image': 'images/Tong24.png'
     },
     {
@@ -716,7 +716,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Jogging with a Quadcopter | Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems",
         'Unnamed: 11': "Mueller15",
-        'reference number': '46',
+        'reference number': '48',
         'image': 'images/Mueller15.png'
     },
     {
@@ -732,7 +732,7 @@ var lit = [
         'Evaluation': "No Evaluation",
         'Title': "Flying sports assistant | Proceedings of the 2nd Augmented Human International Conference (acm.org)",
         'Unnamed: 11': "Higuchi11",
-        'reference number': '27',
+        'reference number': '28',
         'image': 'images/Higuchi11.png'
     },
     {
@@ -748,7 +748,7 @@ var lit = [
         'Evaluation': "In Field",
         'Title': "Social fabric fitness | Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (acm.org)",
         'Unnamed: 11': "Mauriello14",
-        'reference number': '43',
+        'reference number': '45',
         'image': 'images/Mauriello14.png'
     },
 ]
